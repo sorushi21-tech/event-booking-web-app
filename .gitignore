@@ -190,7 +190,7 @@ kube-config
 # (keep only one, delete others)
 # ======================
 # Uncomment the lock files you do NOT use:
-# package-lock.json
+package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
 
